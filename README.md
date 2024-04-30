@@ -1,6 +1,6 @@
 # Forecasting energy demand with a Feed-Forward Neural Network
 
-This project is about forecasting energy consumption from smart meter data. The data is provided by CKW (https://www.ckw.ch/landingpages/open-data) and the anonymized ID used is '03466ed913455c281ffeeaa80abdfff6'.
+This project is about forecasting energy consumption from smart meter data. The data is provided by CKW (https://www.ckw.ch/landingpages/open-data) and the anonymized ID used is '03466ed913455c281ffeeaa80abdfff6'. The data has been extracted from 2021 till February 2024 and merged into a single file.
 The provided Notebook is part of my thesis called 'Low voltage low forecasting using ensemble methods'.
 
 The notebook has 7 parts:
